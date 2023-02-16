@@ -1,8 +1,4 @@
-# Hi there 👋
-### I'm Daniel.
-But I go by `fullstackdan` on the internet. Or `fullstack-dan` if that's taken! *(Looking at you @fullstackdan...)*  
 
-Currently working my way through [The Odin Project](https://www.theodinproject.com/).  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-dan)](https://github.com/anuraghazra/github-readme-stats)
 
