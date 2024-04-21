@@ -3,8 +3,6 @@ Heya 👋🏾
 I'm Daniel, welcome to my corner of the Internet.  
 Check out my website: [fullstackdan.dev](https://fullstackdan.dev)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-dan)](https://github.com/anuraghazra/github-readme-stats)  
-
 [![FSD's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstack-dan)](https://github.com/fullstack-dan/github-readme-stats)
 
 <!--
