@@ -2,7 +2,6 @@ Heya 👋🏾
 
 I'm Daniel, welcome to my corner of the Internet.  
 Check out my website: [fullstackdan.dev](https://fullstackdan.dev)  
-Work with me: [staxware.com](https://staxware.com)
 
 <!--[![FSD's GitHub stats](https://github-stats-xi-orpin.vercel.app/api?username=fullstack-dan&show_icons=true&theme=codeSTACKr)](https://github.com/fullstack-dan/github-stats)-->
 
